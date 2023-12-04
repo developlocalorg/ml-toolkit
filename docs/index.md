@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome to the AI Training Dataset Sustainability Toolkit
+## Guidance to the Toolkit
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The purpose of this toolkit is to support Lacuna Fund grantees and researchers in publishing sustainable AI training datasets in standard formats. The toolkit is designed as a step-by-step playbook that researchers can reference as they prepare their datasets to ensure widespread reuse by other researchers in the Machine Learning (ML) community.  The toolkit for publishing sustainable AI training datasets aims to act as guidance or checklist for researchers who are looking to create, publish and promote high-quality datasets that are ethically responsible and socially impactful.
 
-## Commands
+The toolkit covers topics including guidance on producing high-quality datasets before publication, selection of appropriate platforms to host the dataset, and activities they can undertake to promote the datasets and maximize their discoverability and impact. The toolkit will also emphasize ethical considerations including guidelines on how to protect personal information and privacy.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We welcome feedback on these guidelines by contacting Leonida at [leo@developlocal.org](mailto:leo@developlocal.org)  or Cecilia at [cecilia@developlocal.org](mailto:cecilia@developlocal.org).
