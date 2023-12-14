@@ -49,3 +49,5 @@ nav:
   - Home: index.md
   - Getting started:
     - Introduction: definition.md
+    - Fair Principles: fair.md
+  - Before Publishing: beforepublish.md
