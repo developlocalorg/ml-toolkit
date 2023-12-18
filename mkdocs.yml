@@ -3,10 +3,11 @@ site_name: ML Dataset Sustainability Toolkit
 theme:
   name: material
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     # - toc.integrate
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.code.annotate
@@ -53,4 +54,13 @@ nav:
   - Getting started:
     - Introduction: definition.md
     - Fair Principles: fair.md
-  - Before Publishing: beforepublish.md
+  - Before Publishing: 
+    - Produce High Quality Datasets: beforepublish.md
+    - Create Privacy-Preserving Datasets: privacy.md
+    - Document your Datasets Extensively: documentation.md
+  - Hosting your Datasets: hosting.md
+  - After Publishing:
+    - Promoting Discoverability and Reuse: discoverability.md
+    - Ethical Considerations: ethicalAI.md
+    - Funding your Project: funding.md
+  - TL;DR: TL;DR.md
