@@ -1,9 +1,9 @@
 # FAIR Data Principles
 
 ## What is FAIR?
-As more datasets for research and innovation are published openly, there is a need to have well-described, accessible data that conforms to community standards in order to discover relevant data, perform machine analysis at scale, or employ techniques such as artificial intelligence to identify patterns and correlations not visible to human eyes alone. 
+As more datasets for research and innovation are published openly, there is a need to have well-described, accessible data that conforms to community standards in order to discover and reuse relevant data, perform machine analysis at scale, or employ techniques such as artificial intelligence to identify patterns and correlations not visible to the human eye. 
 
-The FAIR principles define the characteristics that data must have to be reused by humans and machines[^1]. The FAIR data principles provide a set of guidelines to help make research data **Findable, Accessible, Interoperable, and Reusable.** These principles ensure that research objects are reusable and will indeed be reused, and thus become as valuable as possible. We base this toolkit on these fundamental principles of sustainable datasets. 
+The FAIR principles define the characteristics that data must have to be reused by humans and machines[^1]. The FAIR data principles provide a set of guidelines to help make research data **F-indable, A-ccessible, I-nteroperable, and R-eusable.** These principles ensure that research objects are reusable and will indeed be reused, and thus become as valuable as possible. We base this toolkit on these fundamental principles of sustainable datasets. 
 
 
 <table>

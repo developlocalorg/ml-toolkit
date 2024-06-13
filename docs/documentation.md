@@ -20,14 +20,23 @@ Creating a data fact sheet is an important step in ensuring that AI training dat
 ---
 
 !!! tip
-    Datasheets are useful tools for documenting the datasets used for training and evaluating machine learning models. Datasheets contain questions about dataset motivation, composition, collection, pre-processing, labelling, intended uses, distribution, and maintenance. The following is a good template for dataset documentation and an example in use: 
 
-    [**Datasheet for datasets**](https://arxiv.org/pdf/1803.09010.pdf)
+    === "Datasheets"
+        Datasheets are useful tools for documenting the datasets used for training and evaluating machine learning models. Datasheets contain questions about dataset motivation, composition, collection, pre-processing, labelling, intended uses, distribution, and maintenance. The following is a good template for dataset documentation and an example in use: 
 
-    [**Datasheets: Multimodal datasets for Bemba Language**](https://github.com/csikasote/bigc/blob/main/Datasheet_for_Dataset_DRAFT.pdf)
+        [**Datasheet for datasets**](https://arxiv.org/pdf/1803.09010.pdf)
+
+        [**Datasheets: Multimodal datasets for Bemba Language**](https://github.com/csikasote/bigc/blob/main/Datasheet_for_Dataset_DRAFT.pdf)
+
+        [**Healthsheet: Development of a Transparency Artifact for Health Datasets**](https://arxiv.org/abs/2202.13028)
+
+    === "Metadata" 
+
+        Documenting metadata in standardised metadata formats and schemas is crucial for interoperability. **The Dublin Core** is a good standard to use. It consists of a set of vocabulary terms used to describe web resources such as video, images, web pages, and, importantly, datasets. It includes 15 core elements like title, creator, subject, description, and more. Applying Dublin Core standards to your dataset ensures that the basic and essential metadata is captured in a standardized way.
     
     ---
-    Documenting metadata in standardised metadata formats and schemas is crucial for interoperability. The Dublin Core is a good standard to use. It consists of a set of vocabulary terms used to describe web resources such as video, images, web pages, and, importantly, datasets. It includes 15 core elements like title, creator, subject, description, and more. Applying Dublin Core standards to your dataset ensures that the basic and essential metadata is captured in a standardized way.
+    
+    It is important to document a dataset's compliance with relevant regulations (e.g Local Data Protection Laws, HIPAA or GDPR) and ethical guidelines, including any consent forms or IRB approvals. Due to how the data was collected, it may be necessary to provide additional information on terms of data use, specifically restrictions of use.
 
 
 

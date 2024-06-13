@@ -2,21 +2,29 @@ Privacy-preserving techniques are essential when publishing training datasets in
 
 
 ## Data anonymization
-
 Remove personally identifiable information (PII) from the dataset, such as names, addresses, phone numbers, and email addresses. This process reduces the risk of re-identification of individuals.
 
-## Data aggregation
+## Pseudonymization
+Replace identifiers with pseudonyms or codes that can be used to re-identify the data if necessary, but only with access a the key.
 
+## Data aggregation
 Combine individual data points into aggregated groups, summarizing the data while reducing the risk of identifying individual entries. For example, instead of sharing exact ages, group them into age ranges.
 
+## Data Perturbation
+Modify data slightly e.g. altering dates (such as birth dates, admission, and discharge dates) by a random amount to prevent identification but maintaining the relative sequence of events to prevent identification while preserving the overall utility of the dataset.
+
+## Masking
+For images that capture facial features blurring, pixelation, or masking can be used to obscure the face.
+
+
+## Redaction
+Manually or automatically redact text e.g. in clinical notes or image annotations that might contain identifiable information.
 
 ## Regulatory Adherence
-
 It is important when creating datasets for sharing and publishing to follow all relevant laws and regulations, such as GDPR and HIPAA for data protection and privacy. Many countries also have [localized  data protection regulations](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide) that can be referenced before publication. 
 
 Where these laws are lacking or limited, you can also create a **code of ethics/data governance policy** proscribing irresponsible and unethical use of the datasets, especially where no specific law or data protection legal structure exists to be adhered to. 
     
-
 ---
 
 !!! Example
@@ -31,6 +39,8 @@ Where these laws are lacking or limited, you can also create a **code of ethics/
     * **Synthetic Data Generation**: This technique involves using algorithms to generate new textual data that can mimic human language patterns.
 
 
+---
 
+!!! Note
 
-
+    Anonymising health data is a delicate balance between protecting patient privacy and retaining the data's utility for research. It's important to regularly review and update anonymization practices to align with evolving technology, regulations, and ethical standards. Multiple peer reviewers can quality check the final dataset contents and metadata before publication. 
