@@ -6,3 +6,4 @@ The purpose of this toolkit is to support Lacuna Fund grantees and the wider mac
 This work was carried out with support from [Lacuna Fund](https://lacunafund.org/) and Canada’s [International Development Research Centre (IDRC)](https://idrc-crdi.ca/en).
 
 We welcome feedback on these guidelines by contacting Leonida at [leo@developlocal.org](mailto:leo@developlocal.org)  or Cecilia at [cecilia@developlocal.org](mailto:cecilia@developlocal.org).
+
