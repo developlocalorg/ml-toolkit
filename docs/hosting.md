@@ -32,7 +32,7 @@ _Refer to the [Hosting Guidelines ](https://docs.google.com/document/d/13-T_x3Ek
 
 
 ## 2. License the data with appropriate open-source licenses 
-Licensing AI training datasets with appropriate open-source licenses is critical for promoting the accessibility and reuse of the data. While accessibility in the context of FAIR does not necessarily mean free access for all, the Lacuna Fund grant agreement provides additional guidelines on which appropriate open-source licensing to use (CC-by 4.0). Open-source licenses provide a legal framework for sharing and using data, enabling others to access and build on your training datasets in accordance with the prescribed requirements attached to the license.  
+Licensing AI training datasets with appropriate open-source licenses is critical for promoting the accessibility and reuse of the data. While accessibility in the context of FAIR does not necessarily mean free access for all, the Lacuna Fund grant agreement provides additional guidelines on which appropriate open-source licensing to use including [Apache 2.0](https://opensource.org/licenses/Apache-2.0) for any code or other inventions, [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/), or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for any other intellectual property (e.g., creative works that are not code or patentable). Open-source licenses provide a legal framework for sharing and using data, enabling others to access and build on your training datasets in accordance with the prescribed requirements attached to the license.  
 
 
 
