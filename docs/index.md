@@ -9,7 +9,7 @@ We welcome feedback on these guidelines by contacting Leonida at [leo@developloc
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="/assets/images/LDRI.png" alt="Logo 1" width="200">
-    <img src="/assets/images/lacuna.png" alt="Logo 2" width="200">
-    <img src="/assets/images/IDRC.png" alt="Logo 3" width="200">
+    <img src="/assets/images/LDRI.png" alt="LDRI" width="200">
+    <img src="/assets/images/lacuna.png" alt="Lacuna Fund" width="200">
+    <img src="/assets/images/IDRC.png" alt="IDRC" width="200">
 </div>
